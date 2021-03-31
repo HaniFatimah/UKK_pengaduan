@@ -14,7 +14,7 @@ class Kelola extends MY_Controller {
         $kelola = $this->M_all->tampilKelola()->result_array();
         $data = [
             "kelola"               => $kelola,
-            "title"                => 'Data masyarakat',
+            "title"                => 'Data Pengaduan Masyarakat',
             "breadcumb"            => 'kelola',
             "content"              => 'kelola/index'
         ];

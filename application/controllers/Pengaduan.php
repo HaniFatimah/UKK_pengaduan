@@ -93,7 +93,7 @@ class Pengaduan extends MY_Controller {
 			$data = [
 				'tgl'           => date('Y-m-d'),
 				'nik'           => $this->session->userdata('user')['session_nik'],
-				'isi_laporan' => htmlspecialchars($this->input->post('isi')),
+				'isi_laporan'   => htmlspecialchars($this->input->post('isi')),
 				'foto'          => $this->upload->data()["file_name"],
 				'status'        => "proses"
 			];

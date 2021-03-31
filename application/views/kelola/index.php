@@ -8,7 +8,7 @@
 						<th>Tanggal</th>
 						<th>Nik</th>
 						<th>Nama</th>
-						<th>Isi Lapporan</th>
+						<th>Isi Laporan</th>
 						<th>Foto</th>
 						<th>Status</th>
 						<th>Aksi</th>

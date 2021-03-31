@@ -8,7 +8,7 @@
 						<th>Tanggal</th>
 						<th>Nik</th>
 						<th>Nama</th>
-						<th>Isi Lapporan</th>
+						<th>Isi Lappran</th>
 						<th>Status</th>
 					</tr>
 				</thead>
@@ -30,5 +30,4 @@
 			</table>
 		</div>
 	</div>
-	<div class="card-footer small text-muted">Updated yesterday at 11:59 PM</div>
 </div>
